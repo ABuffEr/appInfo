@@ -2,11 +2,11 @@
 
 A NVDA add-on to simply read and copy application info (executable name, product name, product version).
 
-# Commands #
+## Commands ##
 
 * NVDA+Shift+V: once, read application info; twice, copy them in clipboard.
 
-# Download #
+## Download ##
 
 Download it [here.][1]
 
