@@ -1,0 +1,2 @@
+# appInfo
+NVDA add-on
