@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'appInfo' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'appInfo' '1.0-20200211-dev'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2020-02-11 21:47+0100\n"
+"PO-Revision-Date: 2020-02-11 21:53+0100\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Alberto Buffolino <a.buffolino@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: addon\globalPlugins\appInfo.py:16
+msgid "Executable name"
+msgstr "Nome eseguibile"
+
+#: addon\globalPlugins\appInfo.py:17
+msgid "Product name"
+msgstr "Nome prodotto"
+
+#: addon\globalPlugins\appInfo.py:18
+msgid "Product version"
+msgstr "Versione prodotto"
+
+#. Translators: message announcing what was copied
+#: addon\globalPlugins\appInfo.py:25
+msgid "Application info copied in clipboard"
+msgstr "Informazioni applicazione copiate negli appunti"
+
+#: addon\globalPlugins\appInfo.py:30
+msgid "Application info not available"
+msgstr "Informazioni applicazione non disponibili"
+
+#: addon\globalPlugins\appInfo.py:31
+msgid "Reports application info"
+msgstr "Restituisce informazioni sull'applicazione"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Application Info"
+msgstr "Application Info"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Provides information about current focused application"
+msgstr "Fornisce informazioni sull'applicazione attualmente focalizzata"
